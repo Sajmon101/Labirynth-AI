@@ -6,7 +6,7 @@ This project features an agent built in Unity that explores a maze to find an ex
 - Unity 2021.3.24f1
 - ML-Agents Toolkit: 0.30.0
 
-## Screenshots
+## Preview
 <img src="Images/Gameplay.gif" alt="Gameplay GIF" width="500"/>
 
 ## License
